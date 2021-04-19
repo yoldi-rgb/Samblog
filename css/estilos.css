@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color:#000;
+=======
+    color:darkorange;
+>>>>>>> cabecera
     text-align: center;
     font-family: cursive;
 }
